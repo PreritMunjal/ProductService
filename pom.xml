@@ -101,7 +101,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/preritmunjal/productservice</image>
+						<image>${REPO_URL}/productservice</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>

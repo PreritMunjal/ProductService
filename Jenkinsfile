@@ -11,7 +11,7 @@ node{
         branches: [[name: '*/main']],
         extensions: [],
         userRemoteConfigs: [[credentialsId: 'git',
-        url: 'https://github.com/PreritMunjal/ProductService.git']]])
+        url: 'https://github.com/shabbirdwd53/ProductService.git']]])
     }
     stage('Build and Push Image'){
         //withEnv(['GCLOUD_PATH=/snap/bin/gcloud']){
